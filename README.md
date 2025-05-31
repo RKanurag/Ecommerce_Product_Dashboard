@@ -206,9 +206,9 @@ Contributions are welcome!
 
 This project is open source and generally available under the MIT License (see below).
 
-**Copyright © 2024 [Your Name or Your GitHub Username]. All Rights Reserved.**
+**Copyright © 2024 GitHub:Rkanurag or Anurag Parashuram. All Rights Reserved.**
 
-The content of this repository, including all source code, documentation, and assets, is the intellectual property of [Your Name or Your GitHub Username].
+The content of this repository, including all source code, documentation, and assets, is the intellectual property of GitHub:Rkanurag or Anurag Parashuram.
 
 **Usage Restrictions:**
 This project is provided for demonstration, educational, and personal portfolio purposes. **No part of this project may be used for commercial purposes, incorporated into any business offerings, or otherwise exploited for financial gain without the express written consent of the copyright owner.**
